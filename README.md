@@ -1,2 +1,3 @@
 # Playing Game Through Gestures
- IR
+ IR Project
+ You can play the games using gestures.
